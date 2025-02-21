@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/terrformrepo/CopilotIndices/17.12.68.61481
+/.vs/terrformrepo/FileContentIndex
+*.sqlite
+*.json
+/.vs/slnx.sqlite-journal
+/.vs/terrformrepo/v17
