@@ -1,8 +1,9 @@
 terraform {
   backend "azurerm" {
-    resource_group_name  = var.backend_resource_group
-    storage_account_name = var.backend_storage_account
-    container_name       = var.backend_container
+    resource_group_name  = "monuresourcergmo"
+    storage_account_name = "monurstormo"
+    container_name       = "monuresocont"
     key                  = "terraform.tfstate"
+    
   }
 }
